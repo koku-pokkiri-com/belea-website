@@ -27,6 +27,9 @@ export const metadata: Metadata = {
   title: "フェイスワックス専門店 BELEA | 肌の土台から整える新習慣",
   description: "産毛除去×角質ケア×トーンアップ。1回で実感できるフェイスワックス専門サロン。男女OK。通うたび、心のトーンも一段上がる。",
   keywords: "フェイスワックス, 顔脱毛, 産毛除去, 角質ケア, トーンアップ, 美肌, BELEA",
+  verification: {
+    google: "IoCTSZjbz936hntNiMS41iYBeyx-8h7wJz83iBm9QbM",
+  },
   openGraph: {
     title: "フェイスワックス専門店 BELEA",
     description: "産毛除去×角質ケア×トーンアップ。1回で実感できるフェイスワックス専門サロン。",
